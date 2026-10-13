@@ -1,4 +1,4 @@
-# 👋 Hey, I'm YOUR_NAME!
+# 👋 Hey, I'm Vaibhav
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Web+Development;Building+Projects%2C+Learning+Every+Day;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Animated typing introduction" />
