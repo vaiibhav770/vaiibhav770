@@ -1,13 +1,4 @@
-<!-- ============================================================
-  HOW TO USE
-  1. Create a PUBLIC repo named EXACTLY your GitHub username (e.g. github.com/johndoe/johndoe)
-  2. Put this file in it as README.md
-  3. Find & replace:  vaiibhav770  ->  your GitHub username
-                      Vaibhav Chaturvedi      ->  your name
-  4. Edit the badges / links / text to match you. Delete sections you don't want.
-============================================================ -->
 
-<!-- ============ HEADER ============ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hey%2C%20I'm%20Vaibhav%20Chaturvedi&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=20&descAlignY=58" width="100%" alt="header"/>
@@ -26,7 +17,7 @@
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
+
 ## 👨‍💻 About Me
 
 ```js
@@ -42,7 +33,7 @@ const me = {
 };
 ```
 
-- 🔭 Currently working on **[Project Name](https://github.com/vaiibhav770)**
+- 🔭 Currently working on **[Pydantic](https://github.com/vaiibhav770)**
 - 🌱 Learning **new tech** every single week
 - 💬 Ask me about **JavaScript, Python, React, Node, APIs**
 - ⚡ Fun fact: **I turn ideas into products faster than my coffee gets cold**
